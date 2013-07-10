@@ -7,5 +7,6 @@ Install
 -------
 
 ```bash
+./fetch_test_modules.sh
 vagrant up
 ```
